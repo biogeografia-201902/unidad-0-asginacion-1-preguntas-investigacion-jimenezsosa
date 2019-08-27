@@ -9,3 +9,9 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
+
+Como se desplazan de un punto a otro?
+
+Cuanto alimento pueden cargar por hora al dia?
+
+Cual es la velocidad recorrida con alimento o sin alimento?
